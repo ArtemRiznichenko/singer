@@ -1,0 +1,98 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+.section-list{
+    display: flex;
+    gap: 30px;
+    justify-content: end;
+    padding-right: 82px;
+    padding-top: 33px;
+}
+.section-list-item{
+    font-family: Lato;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.5px;
+    color: #F6F1EC;
+}
+ul{
+    list-style: none;
+}
+.section-p-text{
+    color: #D11616;
+    font-family: Rufina;
+font-weight: 700;
+font-style: Bold;
+font-size: 30px;
+line-height: 100%;
+letter-spacing: 0%;
+padding-left: 80px;
+padding-bottom: 539px;
+}
+
+.section-p-text-first{
+    color: #F6F1EC;
+}
+.section-p-text-second{
+    color: #F6F1EC;
+}
+.p-second-text{
+    color: #F6F1EC;
+        font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 7.37px;
+    line-height: 12px;
+    letter-spacing: 3.44px;
+    text-align: center;
+    vertical-align: middle;
+    text-transform: uppercase;
+    
+    
+}
+.p-first-text{
+    color: #F6F1EC;
+        font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 7.37px;
+    line-height: 12px;
+    letter-spacing: 3.44px;
+    text-align: center;
+    vertical-align: middle;
+    text-transform: uppercase;
+    
+}
+.first-div{
+    display: flex;
+    gap: 50px;
+    padding-left: 80px;
+    padding-bottom: 125px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 50px ;
+    padding-left: 50px;
+    
+}
+.footer-div-second{
+    display: flex;
+    gap: 19px;
+    
+}
+.footer-div-first{
+        display: flex;
+    gap: 19px;
+    
+}
+body{
+    background-image: url("./img/IMG_7513.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+}

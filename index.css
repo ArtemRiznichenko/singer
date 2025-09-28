@@ -1,0 +1,100 @@
+ul{
+    list-style: none;
+}
+body{
+    background-color: black;
+}
+.section-list{
+    display: flex;
+    gap: 30px;
+    justify-content: end;
+    padding-right: 82px;
+    padding-top: 20px;
+    padding-bottom: 336px;
+}
+.section-list-item{
+    font-family: Lato;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.5px;
+    color: #F6F1EC;
+}
+.section-h1-text{
+    font-family: Rufina;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #D11616;
+    text-align: center;
+}
+.section-img-first{
+    width: 49px;
+    display: block;
+    margin: 0 auto;
+    padding-top: 79px;
+}
+.section-p-text{
+    font-family: Lexend;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 263px;
+}
+.footer-div-first{
+    display: flex;
+    gap: 19px;
+}
+.p-first-text{
+    color: #FFFFFF;
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 7.37px;
+    line-height: 12px;
+    letter-spacing: 3.44px;
+    text-align: center;
+    vertical-align: middle;
+    text-transform: uppercase;
+    
+    
+}
+.footer-div-second{
+    display: flex;
+    gap: 19px;
+}
+.p-second-text{
+    color: #FFFFFF;
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 7.37px;
+    line-height: 12px;
+    letter-spacing: 3.44px;
+    text-align: center;
+    vertical-align: middle;
+    text-transform: uppercase;
+    
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 50px ;
+    padding-left: 50px;
+}
+body{
+    background-image: url("./img/IMG_7513.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+}

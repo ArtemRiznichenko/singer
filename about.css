@@ -1,0 +1,104 @@
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+.section{
+    padding-left: 80px;
+}
+.section-list-item{
+    font-family: Lato;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.5px;
+    color: #FFFFFF;
+}
+body{
+    background-image: url("./img/IMG_7514.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.h1{
+    font-family: Rufina;
+font-weight: 700;
+font-style: Bold;
+font-size: 30px;
+
+line-height: 100%;
+letter-spacing: 0%;
+color: #D11616;
+padding-left: 80px;
+padding-top: 82px;
+}
+.section-list{
+    display: flex;
+    gap: 30px;
+    justify-content: end;
+    padding-left: 82px;
+    padding-top: 52px;
+    padding-right: 82px;
+}
+.p-section{
+    font-family: Inter;
+font-weight: 400;
+font-style: Regular;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #FFFFFF;
+width: 839px;
+}
+.div{
+    display: flex;
+    gap: 18px;
+}
+.img-1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 50px ;
+    padding-left: 50px;
+    padding-bottom: 20px;
+    padding-top: 52px;
+}
+.footer-div-second{
+    display: flex;
+    gap: 19px;
+}
+.p-second-text{
+    color: #FFFFFF;
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 7.37px;
+    line-height: 12px;
+    letter-spacing: 3.44px;
+    text-align: center;
+    vertical-align: middle;
+    text-transform: uppercase;
+    
+}
+.footer-div-first{
+    display: flex;
+    gap: 19px;
+}
+.p-first-text{
+    color: #FFFFFF;
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 7.37px;
+    line-height: 12px;
+    letter-spacing: 3.44px;
+    text-align: center;
+    vertical-align: middle;
+    text-transform: uppercase;
+}
